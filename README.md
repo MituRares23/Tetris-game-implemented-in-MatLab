@@ -1,4 +1,4 @@
-# Tetris-game-implemented-in-MatLab
+
 # 🎮 Tetris Game in MATLAB
 
 Welcome to the Tetris game implemented in MATLAB! This classic game challenges your spatial reasoning and quick thinking as you fit falling blocks together.
